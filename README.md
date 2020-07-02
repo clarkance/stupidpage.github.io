@@ -1,7 +1,4 @@
-# 程序员的浪漫
 
-## 示例网页
-[http://thinkhard.tech/romantic_page/](http://thinkhard.tech/romantic_page/)
 
 ## 使用方法
 
@@ -9,7 +6,7 @@
 
 `http://userName.github.io/romantic_page`
 
-![demo](https://ws1.sinaimg.cn/large/c3a916a7gy1fnqsygoap5j20le09e3z7.jpg)
+![demo](https://clarkance.github.io/stupidpage.github.io/)
 
 ## 效果图
 
